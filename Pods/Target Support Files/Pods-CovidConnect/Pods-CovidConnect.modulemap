@@ -1,0 +1,6 @@
+framework module Pods_CovidConnect {
+  umbrella header "Pods-CovidConnect-umbrella.h"
+
+  export *
+  module * { export * }
+}

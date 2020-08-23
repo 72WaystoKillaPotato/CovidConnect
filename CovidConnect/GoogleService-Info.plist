@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>351747698637-o78dg15o6r54gmeq0pua09r8u7rrpvhm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.351747698637-o78dg15o6r54gmeq0pua09r8u7rrpvhm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAH0S33aL8dlG3zSaIfxjNSlSOj8VDCcUk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>351747698637</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.CUBI.CovidConnect</string>
+	<key>PROJECT_ID</key>
+	<string>covidconnect-ea827</string>
+	<key>STORAGE_BUCKET</key>
+	<string>covidconnect-ea827.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:351747698637:ios:c32bc40defaeda45c05e84</string>
+	<key>DATABASE_URL</key>
+	<string>https://covidconnect-ea827.firebaseio.com</string>
+</dict>
+</plist>
