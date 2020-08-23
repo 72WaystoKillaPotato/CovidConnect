@@ -2,7 +2,7 @@
 
 # CovidConnect
 
-> A personal Covid-19 tracker that priortizes privacy. Once a user self-diagnoses, the app sends push notifications to all their contacts. 
+> A personal Covid-19 tracker that prioritizes user privacy. Once a user self-diagnoses, the app sends push notifications to all their contacts. 
 
 >Tags: Covid-19, pandemic, Covid, contact tracing, CoreBluetooth, bluetooth, iOS, anonymous contact tracing, contact tracer, community, coronavirus, health, prevention, safety, cover 19 tracker
 
